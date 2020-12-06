@@ -1,0 +1,15 @@
+.submit-button,
+.reset-button {
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    color: white;
+}
+
+.submit-button {
+    background-color: green;
+}
+
+.reset-button {
+    background-color: red;
+}
